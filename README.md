@@ -3,7 +3,7 @@
 I'm a developer and crafting awesome applications of all kinds. Whether it's a web app, desktop app, hybrid mobile app, or even a command-line interface (CLI) app, I've got you covered! 😎
 
 ### About Me 🙋‍♂️
-When I'm not typing away on my keyboard, you'll find me sipping coffee ☕️, learning new tech and stuff 🤔, and occasionally watching YouTube & Twitter 👾.
+When I'm not typing away on my keyboard, you'll find me sipping coffee ☕️, learning new tech and stuff 🤔, and occasionally watching YouTube & Twitter 👾 or maybe napping 😴
 
 ### My Skills & Tools 💻
 - Web App Development 
