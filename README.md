@@ -14,19 +14,19 @@ When I'm not typing away on my keyboard, you'll find me sipping coffee ☕️, l
 - Find & Fixing Bugs 🐛
 
 #### Preferred Programming Language 
-![](https://skillicons.dev/icons?i=php,js,nodejs,python,go,cs)
+[![](https://skillicons.dev/icons?i=php,js,nodejs,python,go,cs)](https://github.com/afif-dev)
 #### Preferred Database (SQL & NoSQL)
-![](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb)
+[![](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb)](https://github.com/afif-dev)
 #### Preferred Cloud
-![](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify)
+[![](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify)](https://github.com/afif-dev)
 #### Preferred Frontend
-![](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,tailwind,jquery,react,nextjs,vue,nuxt,vite,webpack)
+[![](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,tailwind,jquery,react,nextjs,vue,nuxt,vite,webpack)](https://github.com/afif-dev)
 #### Preferred Backend
-![](https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,fastapi,flask,go)
+[![](https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,fastapi,flask,go)](https://github.com/afif-dev)
 #### Preferred Desktop Frameworks
-![](https://skillicons.dev/icons?i=tauri,electron)
+[![](https://skillicons.dev/icons?i=tauri,electron)](https://github.com/afif-dev)
 #### Other Dev Tools
-![](https://skillicons.dev/icons?i=git,powershell,selenium,docker,vscode,visualstudio,eclipse,vim,github,gitlab,postman)
+[![](https://skillicons.dev/icons?i=git,powershell,selenium,docker,vscode,visualstudio,eclipse,vim,github,gitlab,postman)](https://github.com/afif-dev)
 #### Generative AI (if I feel lost 😖 & need ideas 💡)
 Google Bard, ChatGPT, Bing AI, Perplexity AI 
 
@@ -37,10 +37,10 @@ Working on something super cool, but it's so secret that even my laptop doesn't 
 If you obey all the rules you miss all the fun. 🥱😜
 
 ## Github Stats 📊✨
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afif-dev&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afif-dev&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afif-dev&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afif-dev&theme=react&utcOffset=8)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afif-dev&theme=react)](https://github.com/afif-dev)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afif-dev&theme=react)](https://github.com/afif-dev)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afif-dev&theme=react)](https://github.com/afif-dev)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afif-dev&theme=react&utcOffset=8)](https://github.com/afif-dev)
 
 ## Let's Connect 🤝
 I'm always up for a coding chat, collaboration, or even just some virtual high-fives 🙌. Feel free to reach out! 📬
