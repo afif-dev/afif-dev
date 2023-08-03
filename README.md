@@ -5,7 +5,21 @@ I'm a developer and crafting awesome applications of all kinds. Whether it's a w
 ### About Me 🙋‍♂️
 When I'm not typing away on my keyboard, you'll find me sipping coffee ☕️, learning new tech and stuff 🤔, and occasionally watching YouTube & Twitter 👾.
 
-### My Skills 💻
+### My Skills & Tools 💻
+- Web App Development 
+- Desktop App Development
+- Hybrid Mobile Development
+- CLI App Development
+- Web Scraping 👩‍💻
+- Find & Fixing Bugs 🐛
+
+#### Preferred Programming Language 
+![](https://skillicons.dev/icons?i=php,js,nodejs,python,go,cs)
+#### Preferred Database (SQL & NoSQL)
+![](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb)
+#### Preferred Dev Tools
+![](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,eclipse,vim,github,gitlab,postman)
+
 
 ### Current Project 🚧
 Working on something super cool, but it's so secret that even my laptop doesn't know about it. 🤫 Stay tuned!
