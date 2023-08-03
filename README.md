@@ -17,9 +17,17 @@ When I'm not typing away on my keyboard, you'll find me sipping coffee ☕️, l
 ![](https://skillicons.dev/icons?i=php,js,nodejs,python,go,cs)
 #### Preferred Database (SQL & NoSQL)
 ![](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb)
-#### Preferred Dev Tools
-![](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,eclipse,vim,github,gitlab,postman)
 
+#### Preferred Cloud
+![](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify)
+#### Preferred Frontend
+![](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,tailwind,jquery,react,nextjs,vue,nuxt,vite,webpack)
+#### Preferred Backend
+![](https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,fastapi,flask,go)
+#### Preferred Desktop Frameworks
+![](https://skillicons.dev/icons?i=tauri,electron)
+#### Other Dev Tools
+![](https://skillicons.dev/icons?i=git,powershell,docker,vscode,visualstudio,eclipse,vim,github,gitlab,postman)
 
 ### Current Project 🚧
 Working on something super cool, but it's so secret that even my laptop doesn't know about it. 🤫 Stay tuned!
