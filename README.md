@@ -27,6 +27,8 @@ When I'm not typing away on my keyboard, you'll find me sipping coffee ☕️, l
 ![](https://skillicons.dev/icons?i=tauri,electron)
 #### Other Dev Tools
 ![](https://skillicons.dev/icons?i=git,powershell,selenium,docker,vscode,visualstudio,eclipse,vim,github,gitlab,postman)
+#### Generative AI (if I feel lost 😖 & need ideas 💡)
+Google Bard, ChatGPT, Bing AI, Perplexity AI 
 
 ### Current Project 🚧
 Working on something super cool, but it's so secret that even my laptop doesn't know about it. 🤫 Stay tuned!
