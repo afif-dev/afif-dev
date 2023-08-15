@@ -6,7 +6,8 @@ I'm a developer and crafting awesome applications of all kinds. Whether it's a w
 When I'm not typing away on my keyboard, you'll find me sipping coffee ☕️, learning new tech and stuff 🤔, and occasionally watching YouTube & Twitter 👾 or maybe napping 😴
 
 ### My Skills & Tools 💻
-- Web App Development 
+- Web App Development
+- API Development 🚀
 - Desktop App Development
 - Hybrid Mobile Development
 - CLI App Development
