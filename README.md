@@ -15,7 +15,7 @@ When I'm not typing away on my keyboard, you'll find me sipping coffee ☕️, l
 - Find & Fixing Bugs 🐛
 
 #### Preferred Programming Language 
-[![](https://skillicons.dev/icons?i=php,js,nodejs,python,go,cs)](https://github.com/afif-dev)
+[![](https://skillicons.dev/icons?i=php,js,python,go,cs)](https://github.com/afif-dev)
 #### Preferred Database (SQL & NoSQL)
 [![](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb)](https://github.com/afif-dev)
 #### Preferred Cloud
